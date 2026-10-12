@@ -1,0 +1,47 @@
+[{
+ "name": "Protein-Glycan-Ion: PDB 7BBV",
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "TPTPTIQEDGSPALIAKRASVTESCNIGYASTNGGTTGGKGGATTTVSTLAQFTKAAESSGKLNIVVKGKISGGAKVRVQSDKTIIGQKGSELVGTGLYINKVKNVIVRNMKISKVKDSNGDAIGIQASKNVWVDHCDLSSDLKSGKDYYDGLLDITHGSDWVTVSNTFLHDHFKASLIGHTDSNAKEDKGKLHVTYANNYWYNVNSRNPSVRFGTVHIYNNYYLEVGSSAVNTRMGAQVRVESTVFDKSTKNGIISVDSKEKGYATVGDISWGSSTNTAPKGTLGSSNIPYSYNLYGKNNVKARVYGTAGQTLGFAAASFLEQKLISEEDLNSAVDHHHHHH",
+    "glycans": [
+     {
+      "residues": "MAN",
+      "position": 22
+     },
+     {
+      "residues": "MAN",
+      "position": 44
+     },
+     {
+      "residues": "MAN",
+      "position": 45
+     },
+     {
+      "residues": "MAN",
+      "position": 46
+     },
+     {
+      "residues": "MAN",
+      "position": 48
+     },
+     {
+      "residues": "MAN",
+      "position": 54
+     }
+    ],
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  },
+  {
+   "ion": {
+    "ion": "CA",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

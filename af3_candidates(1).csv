@@ -1,0 +1,16 @@
+﻿sequence,candidate,ranking_score,ptm,iptm,fraction_disordered,has_clash,num_recycles,n_chains,chain_iptm_min,chain_iptm_mean,pair_iptm_min,pair_iptm_mean,pair_pae_min_max,cif_file,source_file
+fold_protein_dna_ion_pdb_7rce,1,0.93,0.94,0.93,0.0,0.0,10.0,7,0.53,0.65,0.35,0.6633,3.44,test_1/fold_protein_dna_ion_pdb_7rce_model_0.cif,test_1/fold_protein_dna_ion_pdb_7rce_summary_confidences_0.json
+fold_protein_dna_ion_pdb_7rce,2,0.93,0.94,0.93,0.0,0.0,10.0,7,0.52,0.6457,0.35,0.6567,3.46,test_1/fold_protein_dna_ion_pdb_7rce_model_0.cif,test_1/fold_protein_dna_ion_pdb_7rce_summary_confidences_1.json
+fold_protein_dna_ion_pdb_7rce,3,0.93,0.94,0.93,0.0,0.0,10.0,7,0.52,0.64,0.34,0.6533,3.66,test_1/fold_protein_dna_ion_pdb_7rce_model_0.cif,test_1/fold_protein_dna_ion_pdb_7rce_summary_confidences_2.json
+fold_protein_dna_ion_pdb_7rce,4,0.93,0.93,0.93,0.0,0.0,10.0,7,0.52,0.6414,0.35,0.654,3.48,test_1/fold_protein_dna_ion_pdb_7rce_model_0.cif,test_1/fold_protein_dna_ion_pdb_7rce_summary_confidences_3.json
+fold_protein_dna_ion_pdb_7rce,5,0.93,0.93,0.92,0.0,0.0,10.0,7,0.52,0.6329,0.34,0.646,3.44,test_1/fold_protein_dna_ion_pdb_7rce_model_0.cif,test_1/fold_protein_dna_ion_pdb_7rce_summary_confidences_4.json
+fold_protein_glycan_ion_pdb_7bbv,1,0.95,0.88,0.91,0.08,0.0,10.0,8,0.14,0.2625,0.0,0.2607,15.91,Test_2/fold_protein_glycan_ion_pdb_7bbv_model_2.cif,Test_2/fold_protein_glycan_ion_pdb_7bbv_summary_confidences_0.json
+fold_protein_glycan_ion_pdb_7bbv,2,0.94,0.87,0.9,0.1,0.0,10.0,8,0.14,0.2563,0.0,0.2543,18.66,Test_2/fold_protein_glycan_ion_pdb_7bbv_model_2.cif,Test_2/fold_protein_glycan_ion_pdb_7bbv_summary_confidences_1.json
+fold_protein_glycan_ion_pdb_7bbv,3,0.94,0.87,0.89,0.1,0.0,10.0,8,0.14,0.255,0.0,0.2543,19.45,Test_2/fold_protein_glycan_ion_pdb_7bbv_model_2.cif,Test_2/fold_protein_glycan_ion_pdb_7bbv_summary_confidences_2.json
+fold_protein_glycan_ion_pdb_7bbv,4,0.93,0.87,0.89,0.08,0.0,10.0,8,0.14,0.2513,0.0,0.2507,18.76,Test_2/fold_protein_glycan_ion_pdb_7bbv_model_2.cif,Test_2/fold_protein_glycan_ion_pdb_7bbv_summary_confidences_3.json
+fold_protein_glycan_ion_pdb_7bbv,5,0.92,0.87,0.89,0.08,0.0,10.0,8,0.14,0.255,0.0,0.2536,20.43,Test_2/fold_protein_glycan_ion_pdb_7bbv_model_2.cif,Test_2/fold_protein_glycan_ion_pdb_7bbv_summary_confidences_4.json
+fold_protein_rna_ion_pdb_8aw3,1,0.84,0.75,0.78,0.13,0.0,10.0,5,0.69,0.806,0.58,0.8022,3.06,test_3/fold_protein_rna_ion_pdb_8aw3_model_3.cif,test_3/fold_protein_rna_ion_pdb_8aw3_summary_confidences_0.json
+fold_protein_rna_ion_pdb_8aw3,2,0.84,0.75,0.78,0.13,0.0,10.0,5,0.69,0.804,0.57,0.8011,3.12,test_3/fold_protein_rna_ion_pdb_8aw3_model_3.cif,test_3/fold_protein_rna_ion_pdb_8aw3_summary_confidences_1.json
+fold_protein_rna_ion_pdb_8aw3,3,0.84,0.74,0.78,0.14,0.0,10.0,5,0.68,0.8,0.56,0.7956,3.25,test_3/fold_protein_rna_ion_pdb_8aw3_model_3.cif,test_3/fold_protein_rna_ion_pdb_8aw3_summary_confidences_2.json
+fold_protein_rna_ion_pdb_8aw3,4,0.83,0.74,0.78,0.13,0.0,10.0,5,0.69,0.806,0.58,0.8011,3.12,test_3/fold_protein_rna_ion_pdb_8aw3_model_3.cif,test_3/fold_protein_rna_ion_pdb_8aw3_summary_confidences_3.json
+fold_protein_rna_ion_pdb_8aw3,5,0.83,0.74,0.78,0.13,0.0,10.0,5,0.68,0.8,0.56,0.7967,3.28,test_3/fold_protein_rna_ion_pdb_8aw3_model_3.cif,test_3/fold_protein_rna_ion_pdb_8aw3_summary_confidences_4.json

@@ -1,0 +1,39 @@
+[{
+ "name": "Protein-DNA-Ion: PDB 7RCE",
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MASSRRESINPWILTGFADAEGSFGLSILNRNRGTARYHTRLSFTIMLHNKDKSILENIQSTWKVGSILNNGDHYVSLVVYRFEDLKVIIDHFEKYPLITQKLGDYKLFKQAFSVMENKEHLKENGIKELVRIKAKMNWGLNDELKKAFPENISKERPLINKNIPNFKWLAGFTSGDGSFFVRLRKSNVNARVRVQLVFEISQHIRDKNLMNSLITYLGCGHIYEGNKSERSWLQFRVEKFSDINDKIIPVFQENTLIGVKLEDFEDWCKVAKLIEEKKHLTESGLDEIKKIKLNMNKGR",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  },
+  {
+   "dnaSequence": {
+    "sequence": "GGGGGCATGCAGATCCCACAGGCGCG",
+    "count": 1
+   }
+  },
+  {
+   "dnaSequence": {
+    "sequence": "CCGCGCCTGTGGGATCTGCATGCCCC",
+    "count": 1
+   }
+  },
+  {
+   "ion": {
+    "ion": "CA",
+    "count": 3
+   }
+  },
+  {
+   "ion": {
+    "ion": "NA",
+    "count": 1
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]
